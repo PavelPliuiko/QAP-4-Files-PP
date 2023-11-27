@@ -1,4 +1,4 @@
-# QAP-4-Files-PP
+# Project 1 QAP-4
 # One Stop Insurance Program
 
 The One Stop Insurance Company program is designed to allow users to enter and calculate new insurance policy information for customers. The program is capable of handling multiple customers and provides a receipt with detailed information about the insurance policy, costs, and payment details.
